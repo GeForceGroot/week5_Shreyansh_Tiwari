@@ -1,0 +1,1 @@
+{"version":3,"file":"genReportController.js","sourceRoot":"","sources":["../../src/controller/genReportController.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,mEAAgE;AAGzD,MAAM,SAAS,GAAG,CAAO,GAAY,EAAE,GAAa,EAAC,EAAE;IAC1D,MAAM,SAAS,GAAG,MAAM,IAAA,qCAAkB,EAAC,GAAG,EAAE,GAAG,CAAC,CAAC;IACrD,GAAG,CAAC,IAAI,CAAC,SAAS,CAAC,CAAA;AACvB,CAAC,CAAA,CAAA;AAHY,QAAA,SAAS,aAGrB"}
